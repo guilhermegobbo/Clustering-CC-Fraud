@@ -14,3 +14,6 @@ Este projeto teve como objetivo a detecção de fraudes em um dataset de transa�
 3. **Treinamento do Modelo K-Means:**
    - Utilizando o conjunto de características resultante do PCA, o algoritmo K-Means foi aplicado para agrupar as transações em clusters.
    - O número de clusters foi definido de acordo com critérios como a análise do "Knee Point" e do diagrama representando a árvore de clusters.
+  
+![image](https://github.com/guilhermegobbo/Credit-Card-Fraud/assets/136920721/913b6cdf-4c54-43dc-b6d0-33caa2cb49f8)
+
